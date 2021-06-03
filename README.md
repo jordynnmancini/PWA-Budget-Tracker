@@ -3,7 +3,8 @@
 ## Description
 The goal of this project was to take the given Budget Tracker code and add functionality to allow it to run offline. It utilizes service workers and caching in order to accomplish this. 
 
-It has been delployed on Heroku: 
+It has been delployed on Heroku: https://lit-garden-02735.herokuapp.com
+(note: there seems to be a bug on the deployed application, but it works locally)
 
 ![demo](./assets/demo.gif)
 
